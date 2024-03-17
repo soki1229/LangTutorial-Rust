@@ -1,4 +1,3 @@
-project/.vscode
-project/Cargo.lock
-project/target
+.vscode
+target
 

@@ -17,7 +17,7 @@ fn foo(input: &mut i32, times: &mut i32) -> bool
 
 fn main()
 {    
-    let (mut input, mut times, mut ret_flag) = (0, 1, true);
+    let (mut input, mut times, mut ret_flag) = (1, 1, true);
     // let (a, b) = (&input, &times);
     while ret_flag && times <= 12 
     {
